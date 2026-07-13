@@ -1,3 +1,4 @@
+mermaid
 graph TD
   A[系统上电初始化] --> B[液晶初始化、定时器0启动<br/>(设置2ms定时扫描)]
   B --> C[显示首屏 Welcome]
